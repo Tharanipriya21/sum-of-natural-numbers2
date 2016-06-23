@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int i,n,sum;
+int sum,i,n;
 printf("enter the count of natural numbers to be added");
 scanf("%d",&n);
 sum=0;
